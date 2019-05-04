@@ -1,0 +1,226 @@
+[
+    {
+        "title": "婚姻问题",
+        "icon": "01.png",
+        "color": "#03a9f4",
+        "intro": "离婚协议书怎么写？能不能离婚？小孩会判给谁？离婚财产该怎么分？起诉状怎么写？",
+        "sub": [
+            {
+                "link": "/g/divorce/?action=start",
+                "title": "整体离婚咨询"
+            },
+            {
+                "link": "/g/where_to_divorce/?action=start",
+                "title": "去哪里离婚 完"
+            },
+            {
+                "link": "/g/divorce_rate/?action=start",
+                "title": "能不能离婚 完"
+            },
+            {
+                "link": "/g/custody/?action=start",
+                "title": "小孩问题 完"
+            },
+            {
+                "link": "/g/our_children/?action=start",
+                "title": "离婚后小孩的问题 完"
+            },
+            {
+                "link": "/g/properties_division/?action=start",
+                "title": "财产问题 0"
+            },
+            {
+                "link": "/g/live_together_dispute/?action=start",
+                "title": "同居问题 0"
+            },
+            {
+                "link": "/g/divorce_indictment/?action=start",
+                "title": "起诉状 0"
+            },
+            {
+                "link": "/g/divorce_agreement/?action=start",
+                "title": "离婚协议书"
+            },
+            {
+                "link": "/g/properties_agreement/?action=start",
+                "title": "财产协议 -于辉"
+            },
+            {
+                "link": "/g/premarital_counseling/?action=start",
+                "title": "婚前问题咨询 -于佳"
+            },
+            {
+                "link": "/g/after_the_divorce_disputes/?action=start",
+                "title": "离婚后问题"
+            }
+        ]
+    },
+    {
+        "title": "劳动纠纷",
+        "icon": "02.png",
+        "color": "#ffc107",
+        "intro": "劳动纠纷怎么解决？不签劳动合同、加班工资怎么办？试用期问题？",
+        "sub": [
+            {
+                "link": "/g/labor/?action=start",
+                "title": "劳动纠纷 0"
+            },
+            {
+                "link": "/g/labor_changjian/?action=start",
+                "title": "劳动纠纷常见问题 1 -"
+            },
+            {
+                "link": "/g/double_pay/?action=start",
+                "title": "不签劳动合同的双倍工资 1 -"
+            },
+            {
+                "link": "/g/overtime_pay/?action=start",
+                "title": "加班工资 1 -"
+            },
+            {
+                "link": "/g/salary/?action=start",
+                "title": "工资问题 1 -"
+            },
+            {
+                "link": "/g/shiyongqi/?action=start",
+                "title": "试用期问题 1 -"
+            },
+            {
+                "link": "/g/severance_pay/?action=start",
+                "title": "离职时的经济补偿金 1 -"
+            }
+        ]
+    },
+    {
+        "title": "工伤赔偿",
+        "icon": "03.png",
+        "color": "#607d8b",
+        "intro": "工伤赔偿计算，工伤认定标准，工伤鉴定",
+        "sub": [
+            {
+                "link": "/g/injury_benefit/?action=start",
+                "title": "工伤赔偿(精准)"
+            },
+            {
+                "link": "/g/jiuye_yiliao/?action=start",
+                "title": "工伤赔偿(快速)"
+            },
+            {
+                "link": "/g/identify_injury/?action=start",
+                "title": "工伤认定"
+            },
+            {
+                "link": "/g/work_ca_eva/?action=start",
+                "title": "工伤鉴定"
+            },
+            {
+                "link": "/g/rending_shenqing/?action=start",
+                "title": "工伤认定申请表"
+            }
+        ]
+    },
+    {
+        "title": "交通事故",
+        "icon": "04.png",
+        "color": "#8bc34a",
+        "intro": "交通事故赔偿计算？伤残鉴定是几级？赔偿流程怎么走？起诉状怎么写",
+        "sub": [
+            {
+                "link": "/g/traffic_accident_compensation/?action=start",
+                "title": "交通事故赔偿计算"
+            },
+            {
+                "link": "/g/injury/?action=start",
+                "title": "交通伤残鉴定"
+            },
+            {
+                "link": "/g/compensation_procedure/?action=start",
+                "title": "交通事故赔偿流程"
+            },
+            {
+                "link": "/g/indictment/?action=start",
+                "title": "交通事故起诉状"
+            }
+        ]
+    },
+    {
+        "title": "借贷纠纷",
+        "icon": "05.png",
+        "color": "#00bcd4",
+        "intro": "借贷纠纷、法院起诉状怎么写？保全申请书怎么写？",
+        "sub": [
+            {
+                "link": "/g/debit_credit/?action=start",
+                "title": "借贷纠纷"
+            },
+            {
+                "link": "/g/prosecution_form/?action=start",
+                "title": "法院起诉状"
+            },
+            {
+                "link": "/g/application_preservation/?action=start",
+                "title": "保全申请书"
+            }
+        ]
+    },
+    {
+        "title": "买房纠纷",
+        "icon": "07.png",
+        "color": "#00bcd4",
+        "intro": "",
+        "sub": [
+            {
+                "link": "/g/subscription/?action=start",
+                "title": "认购书纠纷"
+            },
+            {
+                "link": "/g/late_certificate/?action=start",
+                "title": "逾期办证"
+            },
+            {
+                "link": "/g/area_error/?action=start",
+                "title": "面积误差"
+            },
+            {
+                "link": "/g/two_buyer/?action=start",
+                "title": "一房二卖"
+            },
+            {
+                "link": "/g/late_deliver/?action=start",
+                "title": "逾期交房"
+            }
+        ]
+    },
+    {
+        "title": "物业纠纷",
+        "icon": "08.png",
+        "color": "#00bcd4",
+        "intro": "",
+        "sub": [
+            {
+                "link": "/g/property_dispute/?action=start",
+                "title": "物业费纠纷"
+            },
+            {
+                "link": "/g/service_quality_dispute/?action=start",
+                "title": "物业服务质量纠纷"
+            },
+            {
+                "link": "/g/proprietor_committee/?action=start",
+                "title": "业主委员会相关问题"
+            },
+            {
+                "link": "/g/parking_space/?action=start",
+                "title": "车位或其他小区公共区域纠纷"
+            },
+            {
+                "link": "/g/owners_rights/?action=start",
+                "title": "业主权益受到其他业主侵害纠纷"
+            },
+            {
+                "link": "/g/property_common_problems/?action=start",
+                "title": "其他常见问题"
+            }
+        ]
+    }
+]
